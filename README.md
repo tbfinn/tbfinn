@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Timothy Burr Finn. This is my portfolio project. The purpose of this portfolio project is to demonstrate my knowledge of several programming languages (C++, C# and Python) and my general software engineering abilities. Below you will find a link to my Portfolio-Solution repository. Inside that repository you will find 3 projects, one for each language, which can be downloaded and executed. 
+
 <!--
 **tbfinn/tbfinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
