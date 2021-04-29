@@ -8,9 +8,9 @@ Each repository is solution of common software system solution. The reason of th
 
 The following software engineering skills that I have and wish to demonstrate are found in the software solutions:
 
-System Software Modeling
-Object Oriented Software Design
-Deployment Modeling
+- System Software Modeling
+- Object Oriented Software Design
+- Deployment Modeling
 
 <!--
 **tbfinn/tbfinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
